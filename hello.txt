@@ -1,2 +1,2 @@
-nobita's README
+nobita & Shizuka's hellofile
 Hello GitHub
